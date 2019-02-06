@@ -4,4 +4,4 @@ A simple Pong Game
 
 # Play?
 
-Yes, under: https://realyellowdev.github.io/pong/
+Yes, under: https://andibde.github.io/pong/
